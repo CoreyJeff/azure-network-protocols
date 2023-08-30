@@ -43,7 +43,8 @@ because for some reason when you put another region it doesn't show up in your r
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/1f65c00b-93f7-4ea3-8df2-3256a2f21feb"
+
 </p>
 <p>
 Step 2: Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subscription you want to make the resource group the one you just made which is

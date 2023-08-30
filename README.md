@@ -34,7 +34,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/8e0baff2-a59d-4aff-95e2-377f180bdc06"
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/2e9e1c9c-beff-47c6-ac47-3736ae00b73f"
+
 "/>
 </p>
 <p>
@@ -43,7 +44,7 @@ because for some reason when you put another region it doesn't show up in your r
 </p>
 
 <p>
-<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/1f65c00b-93f7-4ea3-8df2-3256a2f21feb"
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/8e0baff2-a59d-4aff-95e2-377f180bdc06"
 
 </p>
 <p>
@@ -53,7 +54,7 @@ Step 2: Go back to the home page and head to the Virtual Machines tab. Once you 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/1f65c00b-93f7-4ea3-8df2-3256a2f21feb"
 </p>
 <p>
 Step 3: You are going to make another virtual machine so go back to the Virtual Machines Tab and create new.

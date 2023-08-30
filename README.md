@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="(https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/8e0baff2-a59d-4aff-95e2-377f180bdc06"
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/8e0baff2-a59d-4aff-95e2-377f180bdc06"
 "/>
 </p>
 <p>

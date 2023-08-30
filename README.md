@@ -93,7 +93,8 @@ Go back to VM1 in your Remote Desktop and open Wireshark and it should say *Requ
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/23ea574c-3aac-4476-8fff-98ee93381652"
+"
 </p>
 <p>
 Step 7: Lastly we will explore SSH traffic. First, in Wireshark go to the search bar change it from ICMP to SSH, and click the green logo above the bar to refresh. In Powershell we are going to use the (ssh) command and VM2s IP address to connect to VM2 ex(labuser> ssh labuser@10.0.0.5)

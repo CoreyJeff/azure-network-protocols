@@ -34,7 +34,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/8e0baff2-a59d-4aff-95e2-377f180bdc06)
+"/>
 </p>
 <p>
 Step 1: From the home page click on Resouce Groups. You should be in the resource groups tab. Now you need to click (Create new resource group). Under Subscription, there should be a blank space to name your group. Name it (RG-Lab). And in the Region tab under it put (US West 3) 

@@ -25,10 +25,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1 - Create Resource Groups
+- Step 2 - Create Virtual Machines
+- Step 3 - Download Wireshark
+- Step 4 - Add Rule in Network Security Groups tab in Azure
+- Step 5 - Connect To VM2 from VM1 Powershell
 
 <h2>Actions and Observations</h2>
 

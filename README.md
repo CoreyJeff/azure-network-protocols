@@ -65,7 +65,8 @@ Change your Authentication Type from SSH Key to Password. Use (labuser) as your 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/ff6475d3-afbe-4025-9437-dcc3ee2cd88a"
+
 </p>
 <p>
 Step 4: Now that you are done with the prerequisites go to the Virtual Machines tab and open (VM1) using remote desktop. So copy your Public IP in (VM1) and search

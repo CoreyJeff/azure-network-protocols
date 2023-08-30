@@ -84,7 +84,8 @@ and we will manually change the firewall on VM2 to not allow ICMP traffic.
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/048d0757-0b84-46af-b8e7-46a56d6c6633"
+
 </p>
 <p>
 Step 6: Minimize VM1 and in Azure go to Network Security Groups. Go to the (VM2-nsg) and click Inbound Security Rules on the left side. Click Add at the top of the page to add a new rule. Change the Protocol to ICMP and the Action to Deny. Set the Priority to 200 and Name it (DENY_ICMP_FROM_ANYWHERE) and click add.

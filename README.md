@@ -74,7 +74,8 @@ Remote Desktop in your start menu paste it and connect. Enter your username and 
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/CoreyJeff/azure-network-protocols/assets/138095936/29b35297-823c-440f-99b4-c2af3c7842c3"
+
 </p>
 <p>
 Step 5: In the VM download Wireshark and open it. Click the blue logo in the upper left corner to start scanning. Under the blue logo in the search bar type (icmp) and enter. Minimize your VM go to VM2 and copy the private IP. Now go back into your Remote Desktop Connection

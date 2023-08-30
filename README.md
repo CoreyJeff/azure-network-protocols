@@ -73,7 +73,7 @@ Remote Desktop in your start menu paste it and connect. Enter your username and 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5: In the VM download Wireshark and open it. Click the blue logo in the upper right corner to start scanning. Under the blue logo in the search bar type icmp and enter. Minimize your VM go to VM2 and copy the private IP. Now go back into your Remote Desktop Connection
+Step 5: In the VM download Wireshark and open it. Click the blue logo in the upper left corner to start scanning. Under the blue logo in the search bar type icmp and enter. Minimize your VM go to VM2 and copy the private IP. Now go back into your Remote Desktop Connection
 and open Powershell from the start menu. Use the (ping) command to get the Reply ex(labuser> ping 10.0.0.5). You should be able to see the Replies on your Wireshark. Now we will constantly ping the IP by using the same command but adding (-t) at the end ex(labuser> ping 10.0.0.5 -t)
 and we will manually change the firewall on VM2 to not allow ICMP traffic.
 </p>

@@ -46,7 +46,7 @@ because for some reason when you put another region it doesn't show up in your r
 </p>
 <p>
 Step 2: Go back to the home page and head to the Virtual Machines tab. Once you are there click Create in the upper left corner. Then click Azure Virtual Machine. Under subscription you want to make the resource group the one you just made which is
-(RG-Lab). There should be an option. Your virtual Machine name will be (VM1). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro 21H2) For size minimum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When you're finished check the "I confirm" box at the bottom and then (Review + Create).
+(RG-Lab). There should be an option. Your Virtual Machine name will be (VM1). Region will stay (US West 3) Security Type change to Standard. Image (Windows 10 Pro 21H2) For size minimum should be (2 vcpu 16 GiB memory). Username is Labuser then create your own password. When you're finished check the "I confirm" box at the bottom and then (Review + Create).
 </p>
 <br />
 
@@ -56,7 +56,7 @@ Step 2: Go back to the home page and head to the Virtual Machines tab. Once you 
 <p>
 Step 3: You are going to make another virtual machine so go back to the Virtual Machines Tab and create new.
 Under resource group change it to your (RG-Lab) group. Under Virtual Machine Name you can call it (VM2). 
-Leave the Region as (US West 3). Now you will change your Image to (Ubuntu Server 20.04 LTS). For size minimum should be (2 vcpu 16 GiB memory)
+Leave the Region as (US West 3). Now you will change your Image to (Ubuntu Server 20.04 LTS). For size minimum should be (2 vcpu 16 GiB memory).
 Change your Authentication Type from SSH Key to Password. Use (labuser) as your Username and don't forget your password. Now (Review + Create) the VM.
 </p>
 <br />
